@@ -1,0 +1,6 @@
+Stars 1: 7
+Stars 2: 2
+Stars 3: 10
+Stars 4: 23
+Stars 5: 8
+Total: 50
